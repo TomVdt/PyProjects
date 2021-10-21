@@ -1,0 +1,377 @@
+{
+    "application": "reservation",
+    "businessLogicProviderClass": "ReservationServiceImpl",
+    "data":
+    {
+        "nestedValueObjects":
+        [
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640851800000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d07766a31e5656bd6bc847610691819148cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640850000000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640853000000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d08f9b6520479cfee08d4fe79d2a628eb7cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640851200000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640854200000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d01748c7312dc1f208d9e9d7adcc6fdcaccc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640852400000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640855400000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d0aba33b9565953d13205f3fcedccfff6bcc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640853600000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640859000000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d06369d7c315d7987e8f4b01954d31b66dcc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640857200000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640861400000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d0d9c376dba27671f65206fe163fd668d8cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640859600000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640862600000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d020322caabe7e5db3009957e9113fc5e4cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640860800000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640865000000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d03439a79bee0ad87582a51c019484da32cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640863200000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640869800000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d03a2a4869fded327dc5ff2de5e1b453d1cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640868000000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640873400000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d0329d95704b629aa9dd3806b56759169fcc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640871600000"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "available_capacity",
+                "valueObjectInformation":
+                {
+                    "entry":
+                    [
+                        {
+                            "key": "end_date_time",
+                            "value": "1640875800000"
+                        },
+                        {
+                            "key": "first_exam_on_location",
+                            "value": "true"
+                        },
+                        {
+                            "key": "location_code",
+                            "value": "22-03-5"
+                        },
+                        {
+                            "key": "capacity_id",
+                            "value": "7f4ef5fd15abdd2a88183a94234581d0bbf212e19df5dae3381f01cfa48a0ed2cc7883d6b37ecbf6116456b3b689f551bf94a523c6dd0d6a06d07c4f59a8fb9a"
+                        },
+                        {
+                            "key": "additional_charge_type",
+                            "value": "None"
+                        },
+                        {
+                            "key": "start_date_time",
+                            "value": "1640874000000"
+                        }
+                    ]
+                }
+            }
+        ],
+        "type": "available_capacity_list"
+    },
+    "language": "nl_NL",
+    "stage": "getavailablecapacity",
+    "success": true
+}

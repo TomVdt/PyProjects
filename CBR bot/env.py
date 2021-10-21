@@ -1,0 +1,5 @@
+EXAM_DAY = '2021,10,2,xx,xx'
+COOKIE = ''
+JSESSIONID = ''
+HASH = ''
+T_ID = ''

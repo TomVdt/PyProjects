@@ -1,0 +1,13 @@
+{
+    "application": "reservation",
+    "businessLogicProviderClass": "ReservationServiceImpl",
+    "data":
+    {
+        "nestedValueObjects":
+        [],
+        "type": "available_capacity_list"
+    },
+    "language": "nl_NL",
+    "stage": "getavailablecapacity",
+    "success": true
+}
